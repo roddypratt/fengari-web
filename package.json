@@ -13,6 +13,7 @@
     },
     "homepage": "https://github.com/fengari-lua/fengari-web#readme",
     "main": "dist/fengari-web.bundle.js",
+    "types": "typings/fengari-web.d.ts",
     "dependencies": {
         "fengari": "^0.1.4",
         "fengari-interop": "^0.1"
